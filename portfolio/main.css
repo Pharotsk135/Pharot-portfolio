@@ -1,0 +1,66 @@
+h1{
+    background-color: lightskyblue;
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    font-style: italic;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkblue;
+    font-size: large;
+}
+body{
+ background-color: rgba(247, 205, 117, 0.719);
+}
+#profile{
+    text-align: center;
+}
+hr{
+    height: 5px;
+    background-color: rgb(252, 252, 252);
+    border: none;
+}
+img{
+    height: 50%;
+}
+th{
+    color: darkblue;
+    text-align: left;
+    font-size: 20px;
+}
+tr{
+    color: darkcyan;
+    font-size: 20px;
+}
+table{
+    border: transparent;
+}
+.imageport{
+    width: 600px;
+    height: 400px;
+}
+hr{
+    color: white;
+}
+h2{
+    text-align: center;
+    color: white;
+    padding-left: 20%;
+    padding-right: 20%;
+    background-color: skyblue;
+}
+#popup{
+    width: 100px;
+    height: 100px;
+    float: right;
+    position: fixed;
+    top: 150px;
+    right: 20px;
+    border: 2px solid lightseagreen;
+    display: flex;
+}
+a{
+    font-size: 22px;
+}
+
